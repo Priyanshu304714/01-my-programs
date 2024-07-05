@@ -1,0 +1,6 @@
+a=input("jis paragraph ke words replace karna chata hai vo paragrah copy paste kario:")
+b=input("jis word ko replace karna hai vo word bta: ")
+c=input("ye bhi bta de kis se replace kardu: ")
+print("ye le kar dia replace\n",a.replace(b,c))
+e=input("THANK YOU BOLEGA YHA NHI :")
+print(e)
